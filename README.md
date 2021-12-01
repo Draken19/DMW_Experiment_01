@@ -1,11 +1,10 @@
 # DMW_Experiment_01
 
 
-Name : Ketan B Deore.
-Roll No. : A_31
-Subject : Data Mining and Warehousing
+Ketan B Deore. A-31
 
-Experiment-01
+DMW-Experiment No.-01
+
 
 Problem Statement : 
 
