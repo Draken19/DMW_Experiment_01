@@ -1,8 +1,8 @@
 # DMW_Experiment_01
 
 
-Name : Ketan B Deore
-Roll No. : A31
+Name : Ketan B Deore.
+Roll No. : A_31
 Subject : Data Mining and Warehousing
 
 Experiment-01
